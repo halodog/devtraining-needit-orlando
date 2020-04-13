@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="DELETE">
+        <name> NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-13 15:52:57</sys_created_on>
+        <sys_id>c280d19fdb00101098f6b080399619c2</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name> NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_c280d19fdb00101098f6b080399619c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-13 16:25:46</sys_updated_on>
+        <title><![CDATA[<p style="text-align: left;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><em><strong>Don&#39;t think this is working....</strong></em></span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="DELETE" query="documentkey=c280d19fdb00101098f6b080399619c2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>5bd6a726db7c730007072f17d4961984</instance_id>
+        <instance_name>dev81542</instance_name>
+        <name>sys_properties_category_c280d19fdb00101098f6b080399619c2</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_properties_category"&gt;&lt;sys_properties_category action="INSERT_OR_UPDATE"&gt;&lt;name&gt; NeedIt Properties&lt;/name&gt;&lt;sys_class_name&gt;sys_properties_category&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-13 15:52:57&lt;/sys_created_on&gt;&lt;sys_id&gt;c280d19fdb00101098f6b080399619c2&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt; NeedIt Properties&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_properties_category_c280d19fdb00101098f6b080399619c2&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-13 16:25:46&lt;/sys_updated_on&gt;&lt;title&gt;&lt;![CDATA[&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"&gt;&lt;em&gt;&lt;strong&gt;Don&amp;#39;t think this is working....&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;]]&gt;&lt;/title&gt;&lt;/sys_properties_category&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=c280d19fdb00101098f6b080399619c2"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1705907549</payload_hash>
+        <record_name> NeedIt Properties</record_name>
+        <reverted_from/>
+        <source>decc05dbdb00101098f6b080399619d8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-13 16:25:46</sys_created_on>
+        <sys_id>583fd1d7db40101098f6b08039961947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171745c6ef30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-13 16:25:46</sys_updated_on>
+        <type>System Property Category</type>
+        <update_guid>103fdd57ba4010107a50cd11eaf1342a</update_guid>
+        <update_guid_history>103fdd57ba4010107a50cd11eaf1342a:-1705907549,24bd5197a3401010ac4badaf6c981716:-1247355418,e02d9517bf401010122315092ca8cb88:1167654924,f3f7d5934a4010109efa93128a46ff1d:-42485493,07d7599360401010239ac63e8377340b:-2037040164,2ba7d593d7401010d26ad858399d3566:524111131</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-13 16:29:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category">sys_properties_category</sys_db_object>
+        <sys_id>2646522497f847ee94b86fa03d5a6769</sys_id>
+        <sys_metadata>c280d19fdb00101098f6b080399619c2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_c280d19fdb00101098f6b080399619c2</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_c280d19fdb00101098f6b080399619c2">583fd1d7db40101098f6b08039961947</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-13 16:29:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
